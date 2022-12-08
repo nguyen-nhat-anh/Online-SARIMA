@@ -4,3 +4,4 @@ creme==0.5.1
 statsmodels==0.10.0
 matplotlib==3.1.0
 jupyterlab==3.5.1
+openpyxl==3.0.10
